@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="affirmations">
+        <item>I am strong.</item>
+        <item>I believe in myself.</item>
+        <item>Each day is a new opportunity to grow and be a better version of myself.</item>
+        <item>Every challenge in my life is an opportunity to learn from.</item>
+        <item>I have so much to be grateful for.</item>
+        <item>Good things are always coming into my life.</item>
+        <item>New opportunities await me at every turn.</item>
+        <item>I have the courage to follow my heart.</item>
+        <item>Things will unfold at precisely the right time.</item>
+        <item>I will be present in all the moments that this day brings.</item>
+    </string-array>
+</resources>
